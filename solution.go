@@ -12,7 +12,7 @@ func (p *ProblemImplementation) AddHeader(header string) error {
 	return nil
 }
 
-func (p *ProblemImplementation) AddEntry(header string) error {
+func (p *ProblemImplementation) AddEntry(entry string) error {
 	return nil
 }
 
