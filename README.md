@@ -9,6 +9,6 @@ usage: hashcode <dataset_file>
 
 ### Usage
 
-Implement skelethons in [solution.go](solution.go).
+Implement skeletons in [solution.go](solution.go).
 
-The just install and execute `hashcode` using a dataset. Solution is printed by stdout.
+Then just install and execute `hashcode` using a dataset. Solution is printed to stdout.
