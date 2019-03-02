@@ -27,7 +27,8 @@ func mainWithExitCode() int {
 		return 1
 	}
 
-	log.Printf("simulating problem: %s", problem)
+	log.Printf("simulating problem")
+	log.Printf("%s", problem)
 	result, err := problem.Solve()
 	if err != nil {
 		log.Println(err)
